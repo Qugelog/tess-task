@@ -29,8 +29,8 @@
                     </p>
                 </div>
                 <div class="d-grid gap-2 mb-5 col-9 mx-auto">
-                        <a class="btn btn-outline-dark">GitHub</a>
-                        <a  href="/tasks/task1.php" class="btn btn-outline-dark">Перейти к примеру</a>
+                        <a href="https://github.com/Qugelog/tess-task/blob/main/tasks/task1.php" class="btn btn-outline-dark">GitHub</a>
+                        <a href="/tasks/task1.php" class="btn btn-outline-dark">Перейти к примеру</a>
                 </div>      
                 <div class="card-footer">
                     <small class="text-muted"><strong>Статус: </strong> <span class="text-success">Выполнено</span></small>
@@ -45,8 +45,8 @@
                     <p class="card-text">На диске лежит файл image.png, размер 20000 на 20000. Вывести картинку как баннер размером 200 на 100 пикселей.</p>
                 </div>
                 <div class="d-grid gap-2 mb-5 col-9 mx-auto">
-                        <a class="btn btn-outline-dark">GitHub</a>
-                        <a  href="/tasks/task2.php" class="btn btn-outline-dark">Перейти к примеру</a>
+                        <a href="https://github.com/Qugelog/tess-task/blob/main/tasks/task2.php" class="btn btn-outline-dark">GitHub</a>
+                        <a href="/tasks/task2.php" class="btn btn-outline-dark">Перейти к примеру</a>
                 </div>    
                 <div class="card-footer">
                      <small class="text-muted"><strong>Статус: </strong> <span class="text-success">Выполнено</span></small>
@@ -66,6 +66,7 @@
                     </p>
                 </div>
                 <div class="d-grid gap-2 mb-5 col-9 mx-auto">
+                        <a href="https://github.com/Qugelog/tess-task/blob/main/tasks/task3.txt" class="btn btn-outline-dark">GitHub</a> 
                         <a class="btn btn-outline-dark" id="task3" data-bs-toggle="modal" data-bs-target="#task3Modal">Перейти</a>
                     </div> 
                 <div class="card-footer">
@@ -86,7 +87,7 @@
                     </p>
                 </div>
                 <div class="d-grid gap-2 mb-5 col-9 mx-auto">
-                        <a class="btn btn-outline-dark">GitHub</a>
+                        <a href="https://github.com/Qugelog/tess-task/blob/main/tasks/task4.php" class="btn btn-outline-dark">GitHub</a>
                         <a href="/tasks/task4.php" class="btn btn-outline-dark">Перейти</a>
                     </div> 
                 <div class="card-footer">

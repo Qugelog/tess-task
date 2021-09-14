@@ -33,6 +33,6 @@ try {
         <hr />
     <h1>Новая картинка (Сохранена под другим названием)</h1>
         <img src="../images/image-new.jpg" alt="">
-<? else: ?>
+<?php else: ?>
     Картинки нет, уж извините :)
-<? endif; ?>
+<?php endif; ?>
